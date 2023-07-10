@@ -4,7 +4,7 @@
 
 ### My name is Anton Khmylev :raising_hand: 
 
-💬 I'm a data analyst.
+💬 A beginner IT-specialist in the field of data analytics.
 
 ###### Technology stack: 
 SQL, Python, Python, Pandas, Numpy, Matplotlib, SciPy Jupyter Notebook, PostgreSQL, MS SQL Server
